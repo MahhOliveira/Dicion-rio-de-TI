@@ -1,0 +1,1 @@
+Linguegem de programação de alto nível, desenvolvida principalmente para escrever programas estruturados.
