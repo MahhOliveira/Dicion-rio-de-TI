@@ -1,0 +1,1 @@
+Uma versão orientada a objetos da linguagem de programação C, desenvolvida no início de 1980, por Bjarne Strousptrup, nos laboratórios Bell, e adotada por diversos criadores de sofware,inclusive a Apple Computer e a Sun Microsytems,Inc.
